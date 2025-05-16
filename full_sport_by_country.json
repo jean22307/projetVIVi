@@ -1,0 +1,2490 @@
+{
+  "Switzerland": {
+    "Aeronautics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Alpine Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Alpinism": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Bobsledding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Curling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Freestyle Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Nordic Combined": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skeleton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ski Jumping": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Snowboard": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Triathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Austria": {
+    "Alpine Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Bobsledding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Figure Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Luge": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Nordic Combined": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ski Jumping": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Snowboard": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "United States of America": {
+    "Alpine Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Archery": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Athletics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Baseball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Basketball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Beachvolleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Bobsledding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Boxing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Breaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Curling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cycling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Diving": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Equestrian": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Fencing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Figure Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Football": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Freestyle Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Golf": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ice Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Jeu de Paume": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Lacrosse": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Luge": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Nordic Combined": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Roque": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rowing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rugby": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sailing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Shooting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Short Track": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skateboarding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skeleton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Snowboard": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Softball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Speed Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sport climbing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Surfing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Synchronized Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Taekwondo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Triathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tug of war": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Volleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Water Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Weightlifting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Wrestling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Germany": {
+    "Alpine Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Alpinism": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Athletics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Basketball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Beachvolleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Bobsledding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Boxing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Canoe & Kayaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cycling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Diving": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Equestrian": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Fencing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Football": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Golf": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Judo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Luge": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Modern Pentathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Nordic Combined": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rowing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Shooting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skeleton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ski Jumping": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Snowboard": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Table Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Trampolining": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Triathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tug of war": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Weightlifting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "France": {
+    "Alpine Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Archery": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Basketball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Biathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Breaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Canoe & Kayaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cricket": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Crocket": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cycling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Equestrian": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Fencing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Figure Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Freestyle Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Handball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Judo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Karate": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Motorboating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Nordic Combined": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rugby": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sailing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Shooting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Snowboard": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Surfing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Table Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Triathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tug of war": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Volleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Weightlifting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Italy": {
+    "Alpine Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Archery": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Bobsledding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Boxing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cross-Country Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Curling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cycling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Diving": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Equestrian": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Fencing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Karate": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Luge": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Modern Pentathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rowing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Shooting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Short Track": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skeleton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Volleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Water Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Norway": {
+    "Alpine Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Beachvolleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Biathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cross-Country Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Curling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Freestyle Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Handball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Nordic Combined": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sailing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ski Jumping": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Speed Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Sweden": {
+    "Alpine Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Beachvolleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Biathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Canoe & Kayaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cross-Country Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Curling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Diving": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Equestrian": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Figure Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ice Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Modern Pentathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sailing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Shooting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Speed Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Table Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tug of war": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Wrestling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Great Britain / Australia": {
+    "Alpinism": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "South Korea": {
+    "Archery": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Badminton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Baseball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Fencing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Golf": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Handball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Judo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Short Track": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skeleton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Table Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Taekwondo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Belgium": {
+    "Archery": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Great Britain": {
+    "Archery": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Athletics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Bobsledding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Boxing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cricket": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Curling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cycling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Diving": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Equestrian": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Figure Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Football": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Golf": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ice Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Jeu de Paume": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Lacrosse": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Modern Pentathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Motorboating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rackets": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rowing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rugby": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sailing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Shooting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skateboarding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skeleton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sport climbing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Synchronized Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Taekwondo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Trampolining": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Triathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tug of war": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Water Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "China": {
+    "Archery": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Badminton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Beachvolleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Breaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Diving": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Fencing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Freestyle Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Judo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rhythmic Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Shooting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Short Track": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Softball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sport climbing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Synchronized Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Table Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Taekwondo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Trampolining": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Volleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Weightlifting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Russia": {
+    "Archery": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Athletics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Basketball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Biathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Bobsledding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Boxing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Canoe & Kayaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cross-Country Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cycling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Diving": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Fencing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Figure Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Football": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Handball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ice Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Judo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Luge": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Modern Pentathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rhythmic Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rowing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Shooting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Short Track": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skeleton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Snowboard": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Speed Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Synchronized Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Trampolining": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Volleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Water Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Weightlifting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Wrestling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Finland": {
+    "Athletics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cross-Country Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ice Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Nordic Combined": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ski Jumping": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Speed Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Wrestling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Kenya": {
+    "Athletics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Poland": {
+    "Athletics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Modern Pentathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ski Jumping": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sport climbing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Jamaica": {
+    "Athletics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Indonesia": {
+    "Badminton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sport climbing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Denmark": {
+    "Badminton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Handball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sailing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Chinese Taipei": {
+    "Badminton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Baseball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Table Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Japan": {
+    "Badminton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Baseball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Breaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Curling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Golf": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Judo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Karate": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Nordic Combined": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skateboarding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ski Jumping": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Softball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sport climbing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Surfing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Synchronized Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Table Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Volleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Wrestling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Spain": {
+    "Badminton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Football": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Karate": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Pelota": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rhythmic Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sailing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sport climbing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Synchronized Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Water Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Malaysia": {
+    "Badminton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Cuba": {
+    "Baseball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Boxing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Judo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Volleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Australia": {
+    "Baseball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Beachvolleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Canoe & Kayaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cycling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Diving": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Equestrian": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Freestyle Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rowing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rugby": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sailing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skateboarding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Softball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Surfing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Triathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Dominican Republic": {
+    "Baseball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Yugoslavia": {
+    "Basketball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Handball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Water Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Argentina": {
+    "Basketball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Football": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Latvia": {
+    "Basketball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Luge": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Netherlands": {
+    "Basketball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cycling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Equestrian": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Short Track": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Speed Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tug of war": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Brazil": {
+    "Beachvolleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Football": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skateboarding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Surfing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Volleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Canada": {
+    "Beachvolleyball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Biathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Bobsledding": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Breaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Curling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Figure Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Freestyle Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Golf": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ice Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Lacrosse": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Luge": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rhythmic Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rugby": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Short Track": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Skeleton": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Snowboard": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Softball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Speed Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Synchronized Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Trampolining": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Triathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "German Democratic Republic": {
+    "Biathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Cross-Country Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Handball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Speed Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Belarus": {
+    "Biathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Freestyle Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Trampolining": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Slovakia": {
+    "Biathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Golf": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Hungary": {
+    "Boxing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Canoe & Kayaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Fencing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Football": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Modern Pentathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Short Track": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Water Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Wrestling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Uzbekistan": {
+    "Boxing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Lithuania": {
+    "Breaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Modern Pentathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "New Zealand": {
+    "Canoe & Kayaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Golf": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rowing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rugby": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Triathlon": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Romania": {
+    "Canoe & Kayaking": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rowing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Russian Olympic Commitee": {
+    "Cross-Country Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Ice Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Luge": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Synchronized Swimming": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Estonia": {
+    "Cross-Country Skiing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Federal Republic of Germany": {
+    "Figure Skating": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rhythmic Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Croatia": {
+    "Handball": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "India": {
+    "Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Pakistan": {
+    "Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Czech Republic": {
+    "Ice Hockey": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Snowboard": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Georgia": {
+    "Judo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Egypt": {
+    "Karate": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Bulgaria": {
+    "Karate": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Rhythmic Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Weightlifting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Wrestling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Iran": {
+    "Karate": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Taekwondo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Weightlifting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Serbia": {
+    "Karate": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Taekwondo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Water Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "United States of America / Great Britain": {
+    "Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Great Britain / France / United States of America": {
+    "Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "France / Great Britain": {
+    "Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Mexico": {
+    "Polo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Taekwondo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Israel": {
+    "Rhythmic Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Ukraine": {
+    "Rhythmic Gymnastics": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Trampolining": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Fiji": {
+    "Rugby": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Australia / New Zealand (Australasia)": {
+    "Rugby": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Slovenia": {
+    "Ski Jumping": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Sport climbing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "South Africa": {
+    "Surfing": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "North Korea": {
+    "Table Tennis": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Thailand": {
+    "Taekwondo": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Individual Neutral Athletes": {
+    "Trampolining": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Sweden / Denmark": {
+    "Tug of war": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Greece": {
+    "Tug of war": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "Turkey": {
+    "Weightlifting": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "Wrestling": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  }
+}
