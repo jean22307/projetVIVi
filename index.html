@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualisations des médailles olympiques</title>
+
+  <!-- Highcharts & modules -->
+  <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+  <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+  <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Carte choroplèthe des médailles -->
+  <figure class="highcharts-figure">
+    <div id="container-map" style="height: 500px;"></div>
+    <p class="highcharts-description">
+      Répartition des médailles par pays et par type.
+    </p>
+  </figure>
+
+  <!-- Bar chart du Top 4 des nations -->
+  <figure class="highcharts-figure">
+    <div id="container-bar" style="height: 400px;"></div>
+    <p class="highcharts-description">
+      Top 4 des nations par nombre total de médailles.
+    </p>
+  </figure>
+
+  <!-- Scripts -->
+  <script src="script.js"></script>
+  <script src="script2.js"></script>
+    <script src="script3.js"></script>
+</body>
+</html>
